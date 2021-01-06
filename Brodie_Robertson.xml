@@ -1,5 +1,16 @@
 <feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
-<entry>
+<link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA"/>
+<id>yt:channel:UCld68syR8Wi-GY_n4CaoJGA</id>
+<yt:channelId>UCld68syR8Wi-GY_n4CaoJGA</yt:channelId>
+<title>Brodie Robertson</title>
+<link rel="alternate" href="https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA"/>
+<author>
+  <name>Brodie Robertson</name>
+<uri>https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA</uri>
+</author>
+<published>2012-11-07T21:01:17+00:00</published>
+
+  <entry>
 <id>yt:video:Wu72wjC2kPI</id>
 <yt:videoId>Wu72wjC2kPI</yt:videoId>
 <yt:channelId>UCld68syR8Wi-GY_n4CaoJGA</yt:channelId>
