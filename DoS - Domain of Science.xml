@@ -1,0 +1,2479 @@
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+<link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCxqAWLTk1CmBvZFPzeZMd9A"/>
+<id>yt:channel:UCxqAWLTk1CmBvZFPzeZMd9A</id>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>DoS - Domain of Science</title>
+<link rel="alternate" href="https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2000-01-01T20:00:17+00:00</published><entry>
+<id>yt:video:kD370qyxTyw</id>
+<yt:videoId>kD370qyxTyw</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Quantum Simulation | You Can Program a Quantum Computer Too!</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=kD370qyxTyw"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Quantum Simulation | You Can Program a Quantum Computer Too!</media:title>
+<media:content url="https://www.youtube.com/v/kD370qyxTyw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/kD370qyxTyw/hqdefault.jpg" width="480" height="360"/>
+<media:description>Quantum simulation is a really promising route to discover new technologies of the future by finding new materials with new physical properties. Check out the Qiskit YouTube channel here: https://www.youtube.com/qiskit and this is a good playlist to start with https://bit.ly/2KxqOIV
+
+I’ve talked before about how quantum simulation is my favourite application of quantum computing, so I thought I’d make a video to explain why. And in this video, I run an actual quantum simulation on a real world quantum computer.
+
+
+You can implement this specific simulation too with this video: https://youtu.be/Z-A6G0WVI9w
+
+#quantum #simulation
+
+--- References ---
+
+[1] Toward the first quantum simulation with quantum speedup
+pnas.org/content/115/38/9456
+[2] Waiting for the Quantum Simulation Revolution
+https://physics.aps.org/articles/v12/112
+[3] Quantum Simulation Overview
+https://qtft.org/quantum-simulation/
+[4] https://en.wikipedia.org/wiki/Quantum_simulator
+[5] Losses in Transmission of Power
+https://blog.se.com/energy-management-energy-efficiency/2013/03/25/how-big-are-power-line-losses/
+[6] What room temp superconductors would mean
+https://singularityhub.com/2018/05/13/the-search-for-high-temperature-superconductors/
+[7] 2020 room temperature superconductor
+https://en.wikipedia.org/wiki/Carbonaceous_sulfur_hydride
+[8] Carbon emissions from fertilizer creation
+https://cbmjournal.biomedcentral.com/articles/10.1186/s13021-019-0133-9
+[9] How many qubits you need to simulate certain molecules
+https://dash.harvard.edu/bitstream/handle/1/4653262/1007.2648v1.pdf?sequence=1&amp;isAllowed=y
+[10] IBM quantum roadmap
+https://www.ibm.com/blogs/research/2020/09/ibm-quantum-roadmap/
+[11] Google million qubits by 2030
+https://www.technologyreview.com/2020/02/26/916744/quantum-computer-race-ibm-google/
+[12] Simulating a quantum computer on a classical computer
+https://phys.org/news/2020-01-simulate-quantum-bits-supercomputer-compression.html#:~:text=However%2C%20today's%20practical%20full%2Dstate,physical%20memory%20the%20limiting%20factor.
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Petr Murmak
+Sebastian
+Eric Epstein
+Alex Polo
+Kevin Delaney
+Reggie Fourmyle
+Mark Pickenheim
+Raj Duphare
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+--- My Science Books ----
+I also write science books for kids called Professor Astro Cat. You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+
+--- Credits ---
+Music, art, and everything else by Dominic Walliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:Htf0XR6W9WQ</id>
+<yt:videoId>Htf0XR6W9WQ</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Map of Doom | Apocalypses Ranked</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=Htf0XR6W9WQ"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Map of Doom | Apocalypses Ranked</media:title>
+<media:content url="https://www.youtube.com/v/Htf0XR6W9WQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/Htf0XR6W9WQ/hqdefault.jpg" width="480" height="360"/>
+<media:description>This follows my journey to find and rank all of the biggest threats to humanity. Grab yourself the Map of Doom poster here: https://store.dftba.com/collections/domain-of-science
+
+Link to Veritasium’s Asteroids video video: https://youtu.be/4Wrc4fHSCpw
+
+This year was the first experience we’ve had of a global disaster affecting every single person on Earth. And also how unprepared society was to deal with it, despite plenty of people giving warnings that this was going to happen at some stage.
+
+But in the midst of all the doom I started to wonder, what other things could threaten humanity, that we are not thinking about? So I made the Map of Doom to list all the threats to humanity in one place.
+
+But just finding them all is not enough. I wanted to find a way of comparing the risks of all of these disaster scenarios. So this video follows my attempt at doing that, and I think I’ve hit on a great way to visually compare all these dangers, which I haven’t seen anyone do before, so hopefully by the end of the video you’ll have a better idea about what the biggest threats are, and how they compare to this pandemic.
+
+--- References ----
+Thanks to Kurtis Baute for climate change info: www.kurtisbaute.com https://www.youtube.com/user/ScopeofScience
+[1] 10 ways the world is most likely to end, explained by scientists https://bit.ly/3fPiZK9
+[2] Fifth of countries at risk of ecosystem collapse, analysis finds
+https://bit.ly/3qfpGKc
+[3] Global Catastrophic Risk
+https://bit.ly/2VgwusX
+[4] Human Extinction
+https://bit.ly/3ocAcjP
+[5] Global Challenges Foundation (pdf)
+https://bit.ly/3mqo9Pi
+[6] Deadliest Earthquake
+https://bit.ly/2ViLaYo
+[7] If all the plankton died
+https://bit.ly/2HVX5IQ
+[8] Gamma ray burst
+https://bit.ly/37cMilS
+https://bbc.in/39t11w6
+[9] Asteroid Impacts Death Risk
+https://bit.ly/3fP4ciP
+[10] West coast US earthquake probabilities
+https://on.doi.gov/2VegasL
+[11] How many people die of earthquakes per year?
+https://bbc.in/3obBjQP
+https://on.natgeo.com/36hvGdF
+[12] Most deadly Earthquakes in history
+https://bit.ly/2JnLliN
+[13] Asteroid Impact Frequency and Risks
+https://bit.ly/36hfGIx
+https://bit.ly/3mgoVyh
+[14] Supervolcanoes
+https://bit.ly/3o4iJtN
+[15] Average frequency of supervolcanoes
+https://bbc.in/36lFB1M
+[16] Climate change deaths per year
+https://bit.ly/36hvZoP
+https://bit.ly/2Vg6u0H
+https://bit.ly/3mp9mEG
+[17] Deaths due to climate change
+https://bit.ly/39sOhVV
+[18] Global Carbon Emissions Per Year
+https://on.doi.gov/3ob3hMe
+[19] Estimating Future Death Tolls
+https://bit.ly/3fQbqCR
+[20] Frequency of Pandemics
+https://bit.ly/2JqQrKS
+[21] Worst pandemics in history
+https://bit.ly/36kVPZe
+[22] Climate Tipping Points
+https://bit.ly/39uAazw
+[23] The richest 1% carbon emissions
+https://bit.ly/3mmMdCL
+[24] People killed by asteroids https://bit.ly/39vrI31
+[25] The London Beer Flood
+https://bit.ly/3fNjRyZ
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Petr Murmak
+Sebastian
+Eric Epstein
+Alex Polo
+Kevin Delaney
+Reggie Fourmyle
+Mark Pickenheim
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+--- My Science Books ----
+I also write science books for kids called Professor Astro Cat. You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+
+--- Credits ---
+Music, art, and everything else by Dominic Walliman
+Additional music: Higher Kiss by TrakTribe https://www.youtube.com/channel/UCALNf7YM2pEGJvIHf1zxftA/
+Sound effects obtained from https://www.zapsplat.com</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:aYIbC25GNKs</id>
+<yt:videoId>aYIbC25GNKs</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Speed of Light is NOT Fundamental. But THIS is.</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=aYIbC25GNKs"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Speed of Light is NOT Fundamental. But THIS is.</media:title>
+<media:content url="https://www.youtube.com/v/aYIbC25GNKs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/aYIbC25GNKs/hqdefault.jpg" width="480" height="360"/>
+<media:description>This is my journey to find all of the fundamental constants of nature which took some surprising turns. Check out Brilliant who sponsored part of this video: https://brilliant.org/dos
+
+When you learn physics, you very quickly encounter the physical constants of nature, things like the gravitational constant, the speed of light in a vacuum, planck's constant, the elementary charge things like that. These are numbers which we believe are the same everywhere in the universe, for all time. They are baked into our laws of physics and are very special, because if they were even a few percent different, then the Universe wouldn’t exist and neither would we. They are also fundamental because we can’t derive them from any underlying theory, we just have to take them as being true.
+
+So I wanted to go on a quest to find all of the fundamental physical constants and collect them all together so you can see them all in one place, because that’s the kind of thing I do on this channel. So this video is the story of me doing that. But it took some fascinating twists and turns along the way, and the final set was definitely not what I was expecting, because it doesn’t actually include the ones we are familiar with, the ones I just mentioned: speed of light, gravitational constant, planck’s constant. Watch to find out why.
+
+--- Links to source material ----
+How many fundamental constants are there? By John Baez
+https://math.ucr.edu/home/baez/constants.html
+Note that his final set is a little different to mine which is explained in his article. I chose my set to be the easiest to understand.
+Here are the actual numbers for all these dimensionless constants from David Black
+https://math.ucr.edu/home/baez/constants_table.pdf
+
+How fundamental are the fundamental constants?
+https://arxiv.org/pdf/1412.2040.pdf
+
+Dimensionless constants and cosmological measurements
+https://arxiv.org/pdf/1304.0577.pdf
+
+How do neutrinos get their mass?
+https://www.symmetrymagazine.org/article/how-do-neutrinos-get-their-mass#:~:text=Trillions%20of%20neutrinos%20pass%20harmlessly,with%20any%20matter%20at%20all.&amp;text=Neutrinos%20are%20a%20type%20of,interactions%20with%20the%20Higgs%20boson
+
+Helpful wikipedia pages
+https://en.wikipedia.org/wiki/Physical_constant
+https://en.wikipedia.org/wiki/Dimensionless_physical_constant
+https://en.wikipedia.org/wiki/Fine-structure_constant
+
+#physics #speedoflight #quantum
+
+If you’d like to support my free educational content: https://www.patreon.com/domainofscience
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Petr Murmak
+Sebastian
+Eric Epstein
+Alex Polo
+Kevin Delaney
+Reggie Fourmyle
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+--- My Science Books ----
+I also write science books for kids called Professor Astro Cat. You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+
+--- Credits ---
+Music, art, and everything else by Dominic Walliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:crWBFuUW6kI</id>
+<yt:videoId>crWBFuUW6kI</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>How Atomic Spectroscopy Reveals the Secrets of Space</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=crWBFuUW6kI"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>How Atomic Spectroscopy Reveals the Secrets of Space</media:title>
+<media:content url="https://www.youtube.com/v/crWBFuUW6kI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/crWBFuUW6kI/hqdefault.jpg" width="480" height="360"/>
+<media:description>Arguably the most likely way we will first discover alien life on another planet will be using the power of atomic spectroscopy. You can grab the Map of Quantum Physics here https://store.dftba.com/collections/domain-of-science/products/map-of-quantum-physics-poster
+
+Aliens will most likely leave a tell tale trace of their life in the atmosphere’s of their planet. But how do we know what chemicals the atmosphere of a distant planet contains? The answer is atomic spectroscopy. If we see a planet passing in front of it’s star, some of that starlight is absorbed in a very specific pattern called an atomic absorption spectrum. Each element has a specific pattern like a barcode, so through careful analysis of the light it can tell us which gasses are in the atmosphere and their proportions. We already use this technique for other space objects like stars and nebulae, measuring properties like temperature, density, ionization and relative velocity. This is a gift that nature and quantum physics has given us and the majority of what we know about the universe is based on this technique.
+
+#spectroscopy #quantum #venus #aliens
+
+If you’d like to support my free educational content: https://www.patreon.com/domainofscience
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Petr Murmak
+Sebastian
+Eric Epstein
+Alex Polo
+Kevin Delaney
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+--- My Science Books ----
+I also write science books for kids called Professor Astro Cat. You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+
+--- Credits ---
+Music and SFX by Dominic Walliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:gAFAj3pzvAA</id>
+<yt:videoId>gAFAj3pzvAA</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Map of Quantum Physics</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=gAFAj3pzvAA"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Map of Quantum Physics</media:title>
+<media:content url="https://www.youtube.com/v/gAFAj3pzvAA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/gAFAj3pzvAA/hqdefault.jpg" width="480" height="360"/>
+<media:description>This is the Map of Quantum Physics and quantum mechanics covering everything you need to know about this field in one image. Check out this video's sponsor https://brilliant.org/dos
+And grab this poster here: https://store.dftba.com/collections/domain-of-science/products/map-of-quantum-physics-poster
+
+I’ve been fascinated with quantum physics and quantum mechanics for a very long time and I wanted to share the subject with you so I made this map of quantum physics to lay out the ideas within the subject, to set some bounds on it so you know its not endless and to introduce you to lots of concepts that if you are interested in them you can dig deeper. When you are approaching a subject like this that’s so complicated it can be quite challenging because you don’t know where to start and you don’t know how all the concepts relate to each other so hopefully this will put everything in context.
+
+This playlist expands on this video with lots of other more specific videos that dive deeper: https://www.youtube.com/playlist?list=PLOYRlicwLG3RBvX1e7HNjB1IgUAufvUii
+
+#quantum #physics #quantummechanics
+
+If you’d like to support my free educational content: https://www.patreon.com/domainofscience
+
+Big shoutout to everyone who gave me feedback on twitter about the poster and a special thank you to Sarah Johnson and Chris Ferrie for their excellent fact checking.
+https://twitter.com/SJDJ
+https://twitter.com/csferrie
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Sebastian
+Duong Nguyen
+Eric Epstein
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+--- My Science Books ----
+I also write science books for kids called Professor Astro Cat. You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+
+--- Credits ---
+Sound effects obtained from https://www.zapsplat.com
+Music by Dominic Walliman
+Additional music: Verified Picasso by Scary Island, Song of Sadhana by Jesse Gallagher. 
+Sherlock Holmes image by Sidney Paget</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:d-86tNCSJsg</id>
+<yt:videoId>d-86tNCSJsg</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Quantum Gravity | The Search For a Theory of Everything | 3by3</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=d-86tNCSJsg"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Quantum Gravity | The Search For a Theory of Everything | 3by3</media:title>
+<media:content url="https://www.youtube.com/v/d-86tNCSJsg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/d-86tNCSJsg/hqdefault.jpg" width="480" height="360"/>
+<media:description>Why don’t we have a theory of quantum gravity yet? I explore why it has been so difficult. Check out this video's sponsor https://brilliant.org/dos
+Our best theories of physics are incomplete, quantum mechanics and general relativity don’t work when we try and put them together so physicists have been looking for a grand unifying theory of quantum gravity for decades, and so far have failed. This is because it is virtually impossible to make an experiment where the large and small scales meet, so we look to the places in our universe where this happens naturally: black holes and the big bang via the cosmic microwave background. In this video I explain what our best theories are and how we are trying to get to a theory of quantum gravity.
+
+#quantumgravity #space #3by3
+
+If you’d like to support my free educational content: https://www.patreon.com/domainofscience
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Sebastian
+Eric Epstein
+Alex Polo
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+--- My Science Books ----
+I also write science books for kids called Professor Astro Cat. You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+
+--- Credits ---
+Sound effects obtained from https://www.zapsplat.com
+Music by Dominic Walliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:YJ_2ABImQeU</id>
+<yt:videoId>YJ_2ABImQeU</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Why the SpaceX NASA Mission is a Landmark For Astronaut Spaceflight</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=YJ_2ABImQeU"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Why the SpaceX NASA Mission is a Landmark For Astronaut Spaceflight</media:title>
+<media:content url="https://www.youtube.com/v/YJ_2ABImQeU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/YJ_2ABImQeU/hqdefault.jpg" width="480" height="360"/>
+<media:description>Not only is this the first time a commercial company is sending people into space, it is also the first crewed mission to the International Space Station to be launched from American soil in 9 years since the Space Shuttle was decommissioned. On the 27th of May SpaceX will make spaceflight history by being the first commercial company to transport humans to the ISS on a Falcon9 rocket in the SpaceX Dragon Crew spacecraft. This is the beginning of commercial spaceflight and potentially the beginning of space tourism.
+
+#spacex #NASA #astronauts #falcon9
+
+--- Credits --
+NASA image and Video library https://images.nasa.gov/
+Music: Verified Picasso by Scary Island, Song of Sadhana and Spenta Mainyu by Jesse Gallagher. 
+
+If you’d like to support my free educational content: https://www.patreon.com/domainofscience
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Sebastian
+Duong Nguyen
+Eric Epstein
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+--- My Science Books ----
+I also write science books for kids! You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:754YnbOtmvA</id>
+<yt:videoId>754YnbOtmvA</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>VIRUSES | Everything You Need To Know About Viruses | 3by3</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=754YnbOtmvA"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>VIRUSES | Everything You Need To Know About Viruses | 3by3</media:title>
+<media:content url="https://www.youtube.com/v/754YnbOtmvA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/754YnbOtmvA/hqdefault.jpg" width="480" height="360"/>
+<media:description>Everything you need to know about viruses in a quick visual explanation. You can get the infographic image here https://flic.kr/p/2j2LDWs 
+
+At the beginning of this pandemic like everyone I was hearing lots about viruses, but realised I didn’t know that much about what they are. So I did a load of research and have summarised what I learned in these nine images. This video explains the key aspects of viruses: how big they are, how they infect and enter and exit cells, how viruses are classified, how they replicate, and subjects involving viral infections like how they spread from person to person, how our immune system detects and destroys them and how vaccines and anit-viral drugs work.
+
+Human error:
+In slide 9 toxin vaccines are for bacterial infections like tetanus, not viruses. 
+
+Big shoutout and thanks to these people for fact checking my work:
+Dr Michael Bramhall
+Dr Christoph von Arx
+
+#virus #science #covid-19 #3by3
+
+If you’d like to support my free educational content: https://www.patreon.com/domainofscience
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Sebastian
+Duong Nguyen
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+--- My Science Books ----
+I also write science books for kids! You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+
+--- Further Reading ---
+https://viralzone.expasy.org/5216
+https://www.ncbi.nlm.nih.gov/books/NBK21523/
+https://en.wikipedia.org/wiki/Virus
+https://www.youtube.com/watch?v=X-woQ6fgD4I
+https://scopeblog.stanford.edu/2020/04/02/whats-a-virus-anyway-part-1-the-bare-bones-basics/
+https://scopeblog.stanford.edu/2020/04/03/how-coronaviruses-infect-us-how-infectious-viruses-created-us/
+https://www.nature.com/articles/d41586-020-01221-y
+https://opentextbc.ca/biology/chapter/12-1-viruses/
+https://www.erinbromage.com/post/the-risks-know-them-avoid-them
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045880/
+https://www.scientificamerican.com/article/what-immunity-to-covid-19-really-means/
+https://en.wikipedia.org/wiki/Antigenic_shift
+https://www.vaccines.gov/basics/types
+https://en.wikipedia.org/wiki/Antiviral_drug#Approaches_by_life_cycle_stage
+https://en.wikipedia.org/wiki/Remdesivir
+
+Chapters
+0:00 Introduction
+0:14 Virus Overview
+1:21 Virus Size
+1:58 Virus Classification
+3:34 Cell Penetration
+4:32 Virus Replication
+5:58 Virus Release
+6:58 Virus Infection and Range
+8:15 Immune Response
+9:22 Vaccines</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:Lbg1M0PTy1A</id>
+<yt:videoId>Lbg1M0PTy1A</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Find the Volume of Any Shape Using Calculus</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=Lbg1M0PTy1A"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Find the Volume of Any Shape Using Calculus</media:title>
+<media:content url="https://www.youtube.com/v/Lbg1M0PTy1A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/Lbg1M0PTy1A/hqdefault.jpg" width="480" height="360"/>
+<media:description>Calculus isn't just abstract mathematics, it is an incredibly useful tool. Here I show you how to use it to derive the volumes of 3D shapes. Check out my posters here https://store.dftba.com/collections/domain-of-science
+
+This was the first example that really opened my eyes to the real value of calculus. I learned it in university in my physics department mathematics class, and it was just the beginning of a long journey of me wielding calculus at all sorts of practical problems in physics, and it gave me the power to see where the equations of physics came from, rather than just having to learn an memorize them. Awesome!
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Sebastian
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+#calculus #mathematics #integration
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+Help me make amazing science videos on Patreon:
+Patreon: https://www.patreon.com/domainofscience
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+--- My Science Books ----
+I also write science books for kids! You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet, wait that sounds weird --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:ZzhCPJTKg_c</id>
+<yt:videoId>ZzhCPJTKg_c</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>How Many Galaxies Are Moving Away From Us Faster Than Light?</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=ZzhCPJTKg_c"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>How Many Galaxies Are Moving Away From Us Faster Than Light?</media:title>
+<media:content url="https://www.youtube.com/v/ZzhCPJTKg_c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/ZzhCPJTKg_c/hqdefault.jpg" width="480" height="360"/>
+<media:description>Solution to the physics puzzle I posed in the last video. Check out the original video here https://youtu.be/cadNZJvfl7s
+
+I asked you if you could work out what proportion of the galaxies in the visible universe are travelling away from us faster than the speed of light. Here is how I did the calculation and reached the 97% number.
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Sebastian
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+#bigbang #space #physics
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+Help me make amazing science videos on Patreon:
+Patreon: https://www.patreon.com/domainofscience
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+--- My Science Books ----
+I also write science books for kids! You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet, wait that sounds weird --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:cadNZJvfl7s</id>
+<yt:videoId>cadNZJvfl7s</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Faster Than Light Galaxies | HOW IS IT POSSIBLE?</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=cadNZJvfl7s"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Faster Than Light Galaxies | HOW IS IT POSSIBLE?</media:title>
+<media:content url="https://www.youtube.com/v/cadNZJvfl7s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/cadNZJvfl7s/hqdefault.jpg" width="480" height="360"/>
+<media:description>I look at the galaxies that are moving away from us faster than light because of expanding space. Check out this video's sponsor https://brilliant.org/dos
+
+Ninety seven percent of the galaxies in the observable universe are moving away from us faster than the speed of light. You might wonder how this can be true when one of the unbreakable laws of the universe is that nothing can travel faster than light. But this only applies to things moving through space and these distant galaxies are getting further away from us because the space between us is expanding. So the distance between us and them is increasing faster than light could travel across that space. This is also why the observable Universe is 45 billion light years across despite only being 13.8 billion years old.
+#space #cosmology #spacetime
+
+Sources I used for the info in the video
+[1] https://www.nasa.gov/feature/goddard/2019/mystery-of-the-universe-s-expansion-rate-widens-with-new-hubble-data 
+[2] https://en.m.wikipedia.org/wiki/GN-z11
+[3] Ethan Siegel https://medium.com/starts-with-a-bang/no-galaxy-will-ever-truly-disappear-even-in-a-universe-with-dark-energy-e26c75903e1d
+[4] Ethan Siegel https://www.forbes.com/sites/startswithabang/2020/01/01/this-is-how-the-universe-changes-with-every-new-year-that-passes/#154b760716f1
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Sebastian
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+#bigbang #space #physics
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+Help me make amazing science videos on Patreon:
+Patreon: https://www.patreon.com/domainofscience
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+--- My Science Books ----
+I also write science books for kids! You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet, wait that sounds weird --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:B_a0A8lfD2g</id>
+<yt:videoId>B_a0A8lfD2g</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Easiest Way To Make Delicious Bread</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=B_a0A8lfD2g"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Easiest Way To Make Delicious Bread</media:title>
+<media:content url="https://www.youtube.com/v/B_a0A8lfD2g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/B_a0A8lfD2g/hqdefault.jpg" width="480" height="360"/>
+<media:description>This is straight up a baking video, the best bread recipe I have come across for maximum flavour with minimum effort. I thought it could be helpful in the coming weeks and months at home. The full recipe is below!
+
+I didn't want to do a video about the virus because I think it has been really well covered elsewhere. I hope you and your family are all hunkered down and doing well. Wishing you all the best, and I'll be back to my normal science videos next week.
+
+----- Ingredients -----
+- 3 cups (400g) of unbleached all purpose flour
+(or 2 cups all purpose flour and 1 cup wholewheat flour)
+- 1/4 teaspoon instant yeast
+- 1 1/2 teaspoons of table salt
+- 1 cup (240 ml) water 
+- 1 tablespoon of white vinegar
+- 1/2 cup (120ml) mild lager
+
+----- Instructions -----
+- Mix dry ingredients, then add everything else and fold together. Let sit for 8 to 18 hours at room temp in sealed bowl.
+- Knead dough 15 times, pull edges into middle to form a ball and flip seam side down.
+- Line same bowl with oiled parchment paper, put dough on it and lid on for 2 hours.
+- About 30 mins before baking, heat up a Dutch oven in oven to 500F (260C). Lightly flour top of bread and with sharp knife make two slits in the top.
+- Carefully transfer dough to pot and reduce oven to 425F (220C) and bake covered for 30mins, then remove lid and bake for a few more minutes (5-10mins) until brown.
+
+#bread #baking #food
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Sebastian
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+Help me make amazing science videos on Patreon:
+Patreon: https://www.patreon.com/domainofscience
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+--- My Science Books ----
+I also write science books for kids! You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet, wait that sounds weird --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:P1Q8tS-9hYo</id>
+<yt:videoId>P1Q8tS-9hYo</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Big Bang is Probably Not What You Think It Is</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=P1Q8tS-9hYo"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Big Bang is Probably Not What You Think It Is</media:title>
+<media:content url="https://www.youtube.com/v/P1Q8tS-9hYo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/P1Q8tS-9hYo/hqdefault.jpg" width="480" height="360"/>
+<media:description>What do cosmologists mean when they say Big Bang? Perhaps not what we think. The Big Bang poster is available here: https://store.dftba.com/products/the-big-bang-poster
+
+There are many descriptions of the big bang out there that are wrong. Anything that says the universe exploded from an infinitely small, dense and hot point, known as a big bang singularity, are out of date, but I’ve seen this description in many places on the internet and diagrams. I’ve even been guilty of saying this too! But I’ve recently updated my understanding, so here is what cosmologists actually mean when they say big bang.
+
+Special thanks to Katie Mack for some cosmology help: https://twitter.com/AstroKatie
+
+Human Errors:
+1. I got the time that matter and antimatter annihilation happened. I should have said it happened within the first second instead of the first few minutes.
+
+-- Some Awesome People --- 
+And many thanks to my $10 supporters on Patreon, you are awesome!
+Theodore Chu
+Sebastian
+
+Join the gang and help support me produce free and high quality science content:
+https://www.patreon.com/domainofscience
+
+#bigbang #space #physics
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+Help me make amazing science videos on Patreon:
+Patreon: https://www.patreon.com/domainofscience
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+--- My Science Books ----
+I also write science books for kids! You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet, wait that sounds weird --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:054brl5PJX4</id>
+<yt:videoId>054brl5PJX4</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Science Roundup 2019</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=054brl5PJX4"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Science Roundup 2019</media:title>
+<media:content url="https://www.youtube.com/v/054brl5PJX4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/054brl5PJX4/hqdefault.jpg" width="480" height="360"/>
+<media:description>We look at all the top science stories for the year 2019.  Here are the links to the original articles https://medium.com/@DominicWalliman/science-of-2019-links-b47d246cfa48 The mainstream news tends to be a little bit negative, I'm sure you've noticed. And whenever I'm bummed out about the world I turn to science! There were so many amazing science discoveries and advances this year that we can really be proud about. Humans are doing amazing things all over the world and this livestream is a celebration of that!
+
+Check out Kurtis' channel: https://www.youtube.com/channel/UCTRM8LE1g6UXrVZKwgw5oEA
+
+Go donate to Wikipedia: https://donate.wikimedia.org
+Wikipedia article for 2019 science: https://en.wikipedia.org/wiki/2019_in_science</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:uniGQrGLEoI</id>
+<yt:videoId>uniGQrGLEoI</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Every Kind of Thing in Space Mapped</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=uniGQrGLEoI"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Every Kind of Thing in Space Mapped</media:title>
+<media:content url="https://www.youtube.com/v/uniGQrGLEoI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/uniGQrGLEoI/hqdefault.jpg" width="480" height="360"/>
+<media:description>Space in infinitely big with infinite stuff in it, but buy using the power of categorisation I can fit it all into a 12 minute video. Grab the poster here: https://store.dftba.com/collections/domain-of-science/products/the-universe-poster
+
+This video explores all of the things in the Universe from our Earth and local Solar System, out to the Milky Way Galaxy and looks at all of the different kinds of stars from Brown Dwarfs to Red Supergiant Stars. Then to the things they explode into like white dwarfs, neutron stars and black holes. Then we look at all the other kinds of galaxy in the universe, blazars, quasars and out to the cosmic microwave background and the big bang. It covers most of the different things that we know about in the Universe.
+
+--- References ---
+Here are a couple of references I used for further reading.
+Stars info
+https://owlcation.com/stem/Different-Types-of-Stars-in-the-Universe
+List of space objects
+https://en.wikipedia.org/wiki/Lists_of_astronomical_objects?wprov=sfla1
+
+--- Posters ----
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+Help me make amazing science videos on Patreon:
+Patreon: https://www.patreon.com/domainofscience
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+--- My Science Books ----
+I also write science books for kids! You can see them all here:
+http://profastrocat.com 
+
+--- Follow me around the internet you weirdo --- 
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience
+
+#space #universe #cosmology #science
+
+Narration by Dominic Walliman
+Art by Dominic Walliman
+Animated by Dominic Walliman
+Edited by Dominic Walliman
+Music by Jeremy Soule nah just kidding it was also by Dominic Walliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:ufQni4BKtqM</id>
+<yt:videoId>ufQni4BKtqM</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>LISA | The Biggest Space Mission Ever</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=ufQni4BKtqM"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>LISA | The Biggest Space Mission Ever</media:title>
+<media:content url="https://www.youtube.com/v/ufQni4BKtqM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/ufQni4BKtqM/hqdefault.jpg" width="480" height="360"/>
+<media:description>The Lisa mission will be really cool, I look at all the reasons why.
+Patreon: https://www.patreon.com/domainofscience
+DFTBA Store: https://store.dftba.com/collections/domain-of-science 
+RedBubble Store: https://www.redbubble.com/people/DominicWalliman
+
+The European Space Agency Mission LISA (Laser Interferometer Space Antennae) will launch in 2034 and will revolutionize the way we do astronomy. With a 2.5 million kilometre arm length it will be able to see kinds of gravitational waves that are impossible to see using Earth based detectors. Cool things it will see are collisions of super-massive black holes, orbiting white dwarf stars and measurements that will calibrate distance measures like sephid variable stars and supernovae, and it will be a new independent way of measuring the Hubble constant. #gravitationalwaves #space #blackholes
+
+Thanks to the European Space Agency for letting me use their videos. More info about the cool work ESA are doing here: http://www.esa.int/ESA
+
+Thumbnail image credit: NASA Goddard Space Flight Center https://www.nasa.gov/goddard
+Video: https://youtu.be/uDhDZi9Qxhk
+
+I have also made posters available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+If you want to check out my Professor Astro Cat books go here:
+http://profastrocat.com 
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:hAK6ovQQqtc</id>
+<yt:videoId>hAK6ovQQqtc</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Incredible Science of CERN</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=hAK6ovQQqtc"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Incredible Science of CERN</media:title>
+<media:content url="https://www.youtube.com/v/hAK6ovQQqtc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/hAK6ovQQqtc/hqdefault.jpg" width="480" height="360"/>
+<media:description>I was very fortunate to get an invite to a personal tour of CERN, and this is what I saw on my awesome day there. This video was produced with help from my wonderful patrons https://www.patreon.com/domainofscience Grab posters and other merch here: https://store.dftba.com/collections/domain-of-science
+
+Check out Trace Dominguez's playlist of cool CERN videos:
+https://www.youtube.com/watch?v=F1rKi4DTXU0&amp;list=PLOfijlVbE2ZQ6FHjh_0vd-sNGbEGHH_Oh
+
+CERN upen day information here: https://opendays.cern
+
+Thanks so much to CERN for inviting me and also letting me use a bunch of their videos. Most of the video footage in this video is from CERN's resource centre which you can find here.
+https://home.cern/resources
+
+I have another online store too:
+https://www.redbubble.com/people/DominicWalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+If you want to check out my Professor Astro Cat books go here:
+http://profastrocat.com 
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:OQ5P3em-ZnI</id>
+<yt:videoId>OQ5P3em-ZnI</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Black Hole Super Zoom!</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=OQ5P3em-ZnI"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Black Hole Super Zoom!</media:title>
+<media:content url="https://www.youtube.com/v/OQ5P3em-ZnI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/OQ5P3em-ZnI/hqdefault.jpg" width="480" height="360"/>
+<media:description>Everyone is talking about the black hole image, which is amazing! But I've been wondering where actually is the black hole? So here it is. It is inbetween the virgo and leo constellations. Although you can't see it (unless you have a planet sized radio telescope array), it is still nice to know where it is.
+
+Image Credits:
+
+Composite images from wikisky M87
+http://server7.wikisky.org/v2?ra=12.513722222221988&amp;de=12.391111111110996&amp;zoom=1&amp;show_grid=1&amp;show_constellation_lines=1&amp;show_constellation_boundaries=1&amp;show_const_names=1&amp;show_galaxies=1&amp;img_source=IMG_all
+
+black hole image
+https://en.wikipedia.org/wiki/Messier_87#/media/File:Black_hole_-_Messier_87_(cropped).jpg
+
+location of earth images
+https://en.wikipedia.org/wiki/File:Location_of_Earth_(3x3-English_Annot-small).png
+
+M87 jet
+https://commons.wikimedia.org/wiki/File:M87_jet.jpg
+
+How to find the virgo constellation
+https://www.thoughtco.com/virgo-constellation-4171529
+https://twitter.com/ErinEARoss/status/1116021215238320129
+
+Hubble pixel Alex Parker via Twitter
+https://twitter.com/Alex_Parker/status/1116070667068170240
+
+Size of Solar System in Black Hole
+https://twitter.com/xkcdComic/status/1116054191783333888
+
+You can get the posters and other merch here:
+https://store.dftba.com/collections/domain-of-science 
+
+Or posters for outside the US here:
+https://www.redbubble.com/people/dominicwalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+If you want to check out my Professor Astro Cat books go here:
+http://profastrocat.com 
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Further reading:
+An excellent example of Bell's inequality by Aatish Bhatia https://aatishb.com/2014/01/15/the-experiment-that-forever-changed-how-we-think-about-reality/
+Some summaries of the different interpretations:
+Wikipedia has a nice table https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics
+https://www.sciencenews.org/blog/context/tom%E2%80%99s-top-10-interpretations-quantum-mechanics
+This is a really good one for more detail by Peter J. Lewis https://www.iep.utm.edu/int-qm/
+I would also recommend the book 'Beyond Weird' by Philip Ball
+
+Music by
+Dominic ‘Wibblyfingers’ Walliman
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:mqofuYCz9gs</id>
+<yt:videoId>mqofuYCz9gs</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Interpretations of Quantum Mechanics</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=mqofuYCz9gs"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Interpretations of Quantum Mechanics</media:title>
+<media:content url="https://www.youtube.com/v/mqofuYCz9gs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/mqofuYCz9gs/hqdefault.jpg" width="480" height="360"/>
+<media:description>An introduction to the Interpretations of Quantum Mechanics. The first 500 people to sign up via my link will get two FREE months of Skillshare Premium: https://skl.sh/domainofscience
+The interpretations of quantum physics are a collection of attempts of many physicists to try and make quantum physics make sense. The measurement problem and entanglement are notions that are confusing to us humans and people puzzle over questions like: Is the wave function real or just mathematics? What does a subatomic particle really look like? What is particle-wave duality really? That is where the interpretations of quantum physics come in. This is my attempt to cover the main ones.
+
+This video was sponsored by Skillshare
+
+You can get the posters and other merch here:
+https://store.dftba.com/collections/domain-of-science 
+
+Or posters for outside the US here:
+https://www.redbubble.com/people/dominicwalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+If you want to check out my Professor Astro Cat books go here:
+http://profastrocat.com 
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Further reading:
+An excellent example of Bell's inequality by Aatish Bhatia https://aatishb.com/2014/01/15/the-experiment-that-forever-changed-how-we-think-about-reality/
+Some summaries of the different interpretations:
+Wikipedia has a nice table https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics
+https://www.sciencenews.org/blog/context/tom%E2%80%99s-top-10-interpretations-quantum-mechanics
+This is a really good one for more detail by Peter J. Lewis https://www.iep.utm.edu/int-qm/
+I would also recommend the book 'Beyond Weird' by Philip Ball
+
+Music by
+Dominic ‘Wibblyfingers’ Walliman
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:Usu9xZfabPM</id>
+<yt:videoId>Usu9xZfabPM</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>If You Don't Understand Quantum Physics, Try This!</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=Usu9xZfabPM"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>If You Don't Understand Quantum Physics, Try This!</media:title>
+<media:content url="https://www.youtube.com/v/Usu9xZfabPM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/Usu9xZfabPM/hqdefault.jpg" width="480" height="360"/>
+<media:description>A simple and clear explanation of all the important features of quantum physics that you need to know. Check out this video's sponsor https://brilliant.org/dos 
+I have spent a lot of time thinking about how best to explain quantum physics and this is the result of all my hours of pondering, and I’m really happy with how it turned out. I decided to just explain it as it actually is, rather than rely on analogies. The video explains the quantum wavefunction, particle-wave duality, the measurement problem, the double-slit experiment, superposition, entanglement, quantum tunnelling, the Heisenberg uncertainty principle, and energy quantisation. Let me know if it was helpful! Cheers Dx
+
+You can get the posters and other merch here:
+https://store.dftba.com/collections/domain-of-science 
+
+Or posters for outside the US here:
+https://www.redbubble.com/people/dominicwalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+If you want to check out my Professor Astro Cat books go here:
+http://profastrocat.com 
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Further reading
+For a more detailed introduction to quantum physics: 'The Quantum Universe' by Brian Cox and Jeff Forshaw is good.
+And a slightly more advanced but fantastic description of what we do and don't know about quantum physics is the excellent book 'Beyond Weird' by Philip Ball.
+
+Music by
+Dominic ‘Wibblyfingers’ Walliman
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:xfQ2si7ksTY</id>
+<yt:videoId>xfQ2si7ksTY</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Year In Science 2018</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=xfQ2si7ksTY"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Year In Science 2018</media:title>
+<media:content url="https://www.youtube.com/v/xfQ2si7ksTY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/xfQ2si7ksTY/hqdefault.jpg" width="480" height="360"/>
+<media:description>A roundup of all the biggest stories in science in 2018. Check out this video's sponsor https://brilliant.org/dos 
+Loads of amazing progress was made in all areas of science in 2018 which is encouraging when the news makes us think that everything is falling apart. In this video I round up all of my favorite news stories from the year. Let me know in the comments if you think I have missed any out.
+
+You can get the posters and other merch here:
+https://store.dftba.com/collections/domain-of-science 
+
+Or posters for outside the US here:
+https://www.redbubble.com/people/dominicwalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+If you want to check out my Professor Astro Cat books go here:
+http://profastrocat.com 
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+
+Links and credits:
+https://en.wikipedia.org/wiki/2018_in_science
+- CRISPR not as good as thought https://www.livescience.com/63075-crispr-damage-cell-mutations.html
+- Cancer research from August
+https://www.medicalnewstoday.com/articles/322923.php
+- Animals that don’t age https://www.rd.com/culture/animals-that-live-forever/
+- Entirely new kind of life: https://www.quantamagazine.org/what-a-newfound-kingdom-means-for-the-tree-of-life-20181211/
+- Kinda room temperature superconductor https://www.sciencenews.org/article/new-hydrogen-rich-compound-may-be-record-breaking-superconductor
+- Best science stories by Vox https://www.vox.com/science-and-health/2018/12/18/18134579/top-science-news-2018
+- 2018 in spaceflight https://en.wikipedia.org/wiki/2018_in_spaceflight
+- FRB 121102 https://www.seti.org/frb-121102-radio-calling-cards-distant-civilization
+- sources of greenhouse gas emissions https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions
+- Science 2018 breakthroughs https://youtu.be/r_K2SmZNc3E
+
+
+Visuals credits and links.
+
+Video clips
+
+Robots:
+Trump signing https://www.youtube.com/watch?v=TRvM1wjpC48
+Boston Dynamics https://www.youtube.com/user/BostonDynamics
+Soft Body robots https://www.youtube.com/watch?v=uuAY5Y_INYQ
+Uber self driving cars https://www.youtube.com/watch?v=27OuOCeZmwI
+
+CRISPR:
+Gladstone Institute https://www.youtube.com/watch?v=wh333iLv_uU
+
+Launching stuff into space:
+NASA TESS https://www.youtube.com/watch?v=Q4KjvPIbgMI
+NASA Kepler https://www.youtube.com/watch?v=_V7J05fK5e0
+NASA InSight Launch https://www.youtube.com/watch?v=O4_JNAFClFk
+NASA InSight https://youtu.be/csV0BCWZ0oA
+NASA Mars Helicopter Scout https://youtu.be/oOMQOqKRWjU
+NASA Spacecraft Dawn https://www.youtube.com/watch?v=Hth3nKGKTFc
+NASA Parker Solar Probe https://www.youtube.com/watch?v=i_z19KPvV1w
+ESA BepiColombo https://www.youtube.com/watch?v=ZD1cNvOPzAw
+NASA OSIRIS-REx https://www.youtube.com/watch?v=NYGHbl_esgw
+China's CNSA Chang'e-4 Lunar Mission https://www.youtube.com/watch?v=cGp7WySaVW4
+SpaceX Falcon Heavy launch https://www.youtube.com/watch?v=wbSwFU6tY1c
+
+Finding Stuff in Space
+Europa Water Plumes https://www.youtube.com/watch?v=4QJS9LcB66g
+Material falling into black hole https://www.youtube.com/watch?v=hu6hIhW00Fk
+European Southern Observatory Super Earth https://www.eso.org/public/news/eso1837/
+European Southern Observatory Oumuamua https://www.eso.org/public/videos/eso1820a/
+
+Physics
+Harvard meta material lens https://www.bbc.com/news/science-environment-36438686
+IceCube neutrino blazar https://www.youtube.com/watch?v=wfVM6To7XfE
+Earth's Magnetic Field https://svs.gsfc.nasa.gov/vis/a010000/a010900/a010954/
+
+Biology
+Fruit Fly connectome https://phys.org/news/2018-07-brain-imaged-nanoscale-resolution.html
+
+Medicine
+3D printed corneas https://www.ncl.ac.uk/press/articles/latest/2018/05/first3dprintingofcorneas/
+Pigs https://www.videvo.net/video/pig-digging/4748/
+Pigs https://www.videvo.net/video/piglets-feeding/3044/
+Pills https://www.videvo.net/video/prescription-drugs-top-view/4928/
+
+Climate Change
+Ozone recovery https://www.nasa.gov/feature/goddard/2018/nasa-study-first-direct-proof-of-ozone-hole-recovery-due-to-chemicals-ban
+World Meteorological Organization https://www.youtube.com/watch?v=TdEFR4qFjEA
+Clouds https://www.videvo.net/video/blue-sky-and-clouds-timelapse/2299/
+Glacier https://www.videvo.net/video/icelandic-glacier-lake/452778/
+
+Explosion sound effect https://freesound.org/s/156031/
+Vinyl scratch https://freesound.org/people/musicvision31/sounds/431773/
+
+References to all the images used in the video can be found here:
+http://dominicwalliman.com/post/181579076135/links-to-images-used-in-this-year-in-science-2018
+
+Music
+
+Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+"Backbay Lounge"
+"Dvorak Polka"
+"Lively Lumpsucker"
+"Hyperfun"
+"Royal Banana"
+"Nouvelle Noel"
+"Deuces"
+"Hard Boiled"
+"Ever Mindful"
+"Concentration"</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:ohyai6GIRZg</id>
+<yt:videoId>ohyai6GIRZg</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Map of Science (and everything else)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=ohyai6GIRZg"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Map of Science (and everything else)</media:title>
+<media:content url="https://www.youtube.com/v/ohyai6GIRZg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/ohyai6GIRZg/hqdefault.jpg" width="480" height="360"/>
+<media:description>The Map of Science explores what science really is. Check out this video's sponsor https://brilliant.org/dos
+In this video I investigate what makes a science a science, and how the scientific method is used in different subjects. I lay out all of the areas of human endeavor and show how they relate to each other from philosophy, through the sciences, to the social sciences, the arts and back to philosophy which I have drawn as a big donut. The main theme is that the scientific method is harder and harder to apply to subjects as they deal with more and more complex systems.
+
+When I said I did in depth maps of ‘all’ of these subjects, I meant just the main ones, mathematics, physics, chemistry, biology and computer science.
+
+You can get the poster here: 
+North America: https://store.dftba.com/products/the-donut-of-knowledge-poster
+
+Everywhere else: https://www.redbubble.com/people/dominicwalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+If you want to check out my Professor Astro Cat books go here:
+http://profastrocat.com
+
+The trippy ending uses footage from this amazing video: https://youtu.be/-Z4jx5VMw8M
+And is inspired by this other amazing video: https://youtu.be/uwmeH6Rnj2E
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:kEry1TaN4-k</id>
+<yt:videoId>kEry1TaN4-k</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Five Quantum Computing Misconceptions</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=kEry1TaN4-k"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Five Quantum Computing Misconceptions</media:title>
+<media:content url="https://www.youtube.com/v/kEry1TaN4-k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/kEry1TaN4-k/hqdefault.jpg" width="480" height="360"/>
+<media:description>I sometimes read things about quantum computing that are not quite right, I clear some up here. Check out this video's sponsor https://brilliant.org/dos
+
+Quantum computing is a hot topic these days, but I sometimes see things in the media that I know are probably going to be misinterpreted by the people reading them. So this is my attempt to clear up some of the main misconceptions I see about quantum computing.
+
+But if you are wondering what the state of quantum computing is right now. It is real and exists. The quantum computers of today have a few tens of qubits: as of making this video the highest number of qubits in the universal quantum computing scheme is 72 from Google, and in the quantum annealing scheme is about 2000 from D-Wave. But they work and solve real world problems. They haven’t quite exceeded classical computers, but they are very close, and there are going to be some interesting developments over the next year.
+
+I have posters available to buy here: https://www.redbubble.com/people/dominicwalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+Also, if you enjoyed this video, you will probably like my Professor Astro Cat science books, available in all good books shops world in over 24 languages!
+http://profastrocat.com
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:FbPZgOwnH4U</id>
+<yt:videoId>FbPZgOwnH4U</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Movie Night With a Physicist</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=FbPZgOwnH4U"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Movie Night With a Physicist</media:title>
+<media:content url="https://www.youtube.com/v/FbPZgOwnH4U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/FbPZgOwnH4U/hqdefault.jpg" width="480" height="360"/>
+<media:description>Physics comes up in movies a lot, and as quite a difficult subject it is fun to see how physics is interpreted through the lens of cinema. Sometimes they get it very right and sometimes they get it very wrong!
+
+A friend of mine who is really into movies picked out a bunch of clips for me to interrogate. Some movies I had seen before, and others I hadn't. See how Hollywood does with some hardcore physics!
+
+I have posters available to buy here: https://www.redbubble.com/people/dominicwalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+Also, if you enjoyed this video, you will probably like my Professor Astro Cat science books, available in all good books shops world in over 24 languages!
+http://profastrocat.com
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:0Be_6Qaq1es</id>
+<yt:videoId>0Be_6Qaq1es</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Calculus, what is it good for?</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=0Be_6Qaq1es"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Calculus, what is it good for?</media:title>
+<media:content url="https://www.youtube.com/v/0Be_6Qaq1es?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/0Be_6Qaq1es/hqdefault.jpg" width="480" height="360"/>
+<media:description>Calculus is an incredibly useful tool for deriving new physics. Check out this video's sponsor https://brilliant.org/dos
+
+Here is a brief description of calculus, integration and differentiation and one example of where it is useful: deriving new physics. In this video I start with a very simple derivation which shows the relationship between momentum and kinetic energy, and then show a simple introduction to integration and differentiation.
+
+When I learned physics at University one of the most satisfying experiences was getting to grips with calculus enough to use it to derive equations as it allowed me to wield mathematics to describe the world, which felt awesome.
+
+I have posters available to buy here: https://www.redbubble.com/people/dominicwalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Also, if you enjoyed this video, you will probably like my science books, available in all good books shops around the work and is printed in over 20 languages. Links are below or just search for Professor Astro Cat. They are fun children's books aimed at the age range 4+ and 7+. But they are also a hit with adults who want good explanations of science. The books have won awards and the app won a Webby.
+
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Human Body Odyssey: http://nobrow.net/shop/professor-astro-cats-human-body-odyssey/
+Solar System Book (age 4+): http://nobrow.net/shop/professor-astro-cats-solar-system/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+https://www.patreon.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:90U_SmKyfGI</id>
+<yt:videoId>90U_SmKyfGI</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Quantum Supremacy Explained</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=90U_SmKyfGI"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Quantum Supremacy Explained</media:title>
+<media:content url="https://www.youtube.com/v/90U_SmKyfGI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/90U_SmKyfGI/hqdefault.jpg" width="480" height="360"/>
+<media:description>Find out what it takes for a quantum computer to beat a classical computer to achieve quantum supremacy. Check out this video's sponsor https://brilliant.org/dos
+
+Quantum supremacy’s that moment when a quantum computer beats the best supercomputers at solving some kind of problem, and it’s a very exciting time right now in quantum computing because, as of recording this video we’re on the brink of having quantum supremacy. In this video I quickly describe how quantum computing works, what quantum computers exist in the world today and what you need to do to prove quantum supremacy.
+
+When I posted this video quantum supremacy hadn’t been reached, but people are predicting that it will happen soon.
+Also the qubit numbers I posted for the different quantum computing efforts will go out of date quite quickly, so they won’t be valid if you are watching this in the future. Hello from April 2018!
+And full disclosure - I used to work at D-Wave but I don’t have any favourites, I’m excited by progress on all fronts and believe they all deserve the same critical analysis.
+
+I have other posters available to buy here: https://www.redbubble.com/people/dominicwalliman
+I have also made versions available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Also, if you enjoyed this video, you will probably like my science books, available in all good books shops around the work and is printed in over 20 languages. Links are below or just search for Professor Astro Cat. They are fun children's books aimed at the age range 4+ and 7+. But they are also a hit with adults who want good explanations of science. The books have won awards and the app won a Webby.
+
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Human Body Odyssey: http://nobrow.net/shop/professor-astro-cats-human-body-odyssey/
+Solar System Book (age 4+): http://nobrow.net/shop/professor-astro-cats-solar-system/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:Kp2bYWRQylk</id>
+<yt:videoId>Kp2bYWRQylk</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>How to Read Math</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=Kp2bYWRQylk"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>How to Read Math</media:title>
+<media:content url="https://www.youtube.com/v/Kp2bYWRQylk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/Kp2bYWRQylk/hqdefault.jpg" width="480" height="360"/>
+<media:description>Baffled by equations, well no more! Continue learning at this video's sponsor https://brilliant.org/dos
+
+Lots of people find mathematical equations intimidating because they don't make sense. But they are not hard to understand if you follow a few steps, anyone can learn to read them. And it is well worth it because they are so incredibly useful to describe everything in math and physics. If you already know I'm sure you know someone who might like this video, I'm going to send it to my family who are less mathematically inclined than me.
+
+The steps you need to know are: 1. Find the variables, 2. Work out what all of the different mathematical symbols mean, 3. Wok out what order you would perform the mathematical operations if you were going to plug numbers in to the equations. These steps really help you get your head around what an equation is telling you. Also, don't be scared about the greek letters, they do just the same thing as normal letters, they either represent constants or variables.
+
+The Math Notation Cheat Sheet is here: https://www.flickr.com/photos/95869671@N08/40544016221/in/dateposted-public/
+And available to buy here: https://www.redbubble.com/people/dominicwalliman/works/30597060-mathematics-notation-cheat-sheet
+Get high res versions by supporting me on Patreon: https://www.patreon.com/domainofscience
+
+POSTERS: I have other posters available to buy here: https://www.redbubble.com/people/dominicwalliman
+ 
+I have also made a version available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/?
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Also, if you enjoyed this video, you will probably like my science books, available in all good books shops around the work and is printed in over 20 languages. Links are below or just search for Professor Astro Cat. They are fun children's books aimed at the age range 4+ and 7+. But they are also a hit with adults who want good explanations of science. The books have won awards and the app won a Webby.
+
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Human Body Odyssey: http://nobrow.net/shop/professor-astro-cats-human-body-odyssey/
+Solar System Book (age 4+): http://nobrow.net/shop/professor-astro-cats-solar-system/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/domainofscience
+
+
+_____________________________
+This is a cheat sheet with a lot of the basic mathematical notation you will come across in popular science.
+
+This ties in with a youtube video which you can watch here: https://youtu.be/Kp2bYWRQylk
+
+And if you would like to buy it as a poster or sticker you can get hold of it here: https://www.redbubble.com/people/dominicwalliman/works/30597060-mathematics-notation-cheat-sheet
+_______________________________
+Tags:
+math, mathematics, equation, formula, explainer, algebra, constants, variables, science, animation, maths, calculus, trigonometry, scicomm, stem</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:wENhHnJI1ys</id>
+<yt:videoId>wENhHnJI1ys</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Map of Biology</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=wENhHnJI1ys"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Map of Biology</media:title>
+<media:content url="https://www.youtube.com/v/wENhHnJI1ys?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/wENhHnJI1ys/hqdefault.jpg" width="480" height="360"/>
+<media:description>Biology is the subject that studies life in all its forms, from the simple cell through to all the animals that inhabit the planet. In this map I lay out the subject of biology and how all of the sub-disciplines are related to each other: microbiology, genetics, bioengineering, anatomy, physiology, medicine, neuroscience, ecology, zoology to name but a few.
+
+Biology spans the scales, from biophysics and biochemistry studying the basic elements of life, to the study of whole ecosystems and the environment. If there is one word that describes biology, it is complexity. There is a huge amount we still don’t understand about how life works, how it started and how it ended up with us.
+
+POSTERS: If you would like to buy a poster of this map, they are available here: https://www.redbubble.com/people/dominicwalliman
+ 
+I have also made a version available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/?
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Also, if you enjoyed this video, you will probably like my science books, available in all good books shops around the work and is printed in 16 languages. Links are below or just search for Professor Astro Cat. They are fun children's books aimed at the age range 7-12. But they are also a hit with adults who want good explanations of science. The books have won awards and the app won a Webby.
+
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book: http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:GRm__SOzz6c</id>
+<yt:videoId>GRm__SOzz6c</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Every Animal In Your DNA</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=GRm__SOzz6c"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Every Animal In Your DNA</media:title>
+<media:content url="https://www.youtube.com/v/GRm__SOzz6c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/GRm__SOzz6c/hqdefault.jpg" width="480" height="360"/>
+<media:description>Signup for your FREE trial to The Great Courses Plus here: http://ow.ly/crsQ30beNOZ
+
+You are the living ancestor of an unbroken chain of lives stretching from you, through your mother and your grandmother all the way back through the complete history of life on planet Earth to the very first life forms that appeared around four billion years ago.
+
+You can buy this poster here: https://www.redbubble.com/people/dominicwalliman/works/28504585-the-chain-of-life-your-evolutionary-history?asc=u&amp;p=poster&amp;rel=carousel 
+Get all my other posters here: https://www.redbubble.com/people/dominicwalliman
+
+And free downloadable versions of this and the other posters here. If you want to print them out for educational purposes please do! https://www.flickr.com/photos/95869671@N08/
+
+More info and links:
+Times humans nearly became extinct
+https://io9.gizmodo.com/close-calls-three-times-when-the-human-race-barely-esc-1730998797
+Bottlenecks of human population
+https://academic.oup.com/mbe/article/17/1/2/975516/Population-Bottlenecks-and-Pleistocene-Human
+Animal Ancestors illustration
+https://ntamura.deviantart.com/art/Evolution-project-178230251
+Timeline of the evolutionary history of life on Earthh
+https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life#cite_note-NAT-20170301-15
+Early sponge
+http://www.sciencemag.org/news/2015/03/oldest-known-sponge-pushes-back-date-key-split-animal-evolution
+List of phylogeny of human ancestors
+https://biology.stackexchange.com/questions/27992/largest-direct-ancestor-of-humans
+Acorn worm genes shared with humans
+http://www.scienceworldreport.com/articles/33346/20151119/evolution-worms-70-percent-human-genes-trace-ancestry-acorn-worm.htm
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+The Great Courses Plus is currently available to watch through a web browser to almost anyone in the world and optimized for the US market. The Great Courses Plus is currently working to both optimize the product globally and accept credit card payments globally.
+I also write a series of children’s science books call Professor Astro Cat, these links are to the publisher, but they are available in all good bookshops around the world in 18 languages and counting:
+Frontiers of Space (age 7+): http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure (age 7+): http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book (age 7+): http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System Book (age 3+, available in UK now, and rest of world in spring 2018): http://nobrow.net/shop/professor-astro-cats-solar-system/?
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+And the new Professor Astro Cat App: https://itunes.apple.com/us/app/galactic-genius-with-astro-cat/id1212841840?mt=8
+
+Find me on twitter, Instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:SzJ46YA_RaA</id>
+<yt:videoId>SzJ46YA_RaA</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Map of Computer Science</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=SzJ46YA_RaA"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Map of Computer Science</media:title>
+<media:content url="https://www.youtube.com/v/SzJ46YA_RaA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/SzJ46YA_RaA/hqdefault.jpg" width="480" height="360"/>
+<media:description>The field of computer science summarised. Learn more at this video's sponsor https://brilliant.org/dos
+
+Computer science is the subject that studies what computers can do and investigates the best ways you can solve the problems of the world with them. It is a huge field overlapping pure mathematics, engineering and many other scientific disciplines. In this video I summarise as much of the subject as I can and show how the areas are related to each other.
+
+You can buy this poster here: 
+North America: https://store.dftba.com/products/map-of-computer-science-poster
+Everywhere else: https://www.redbubble.com/people/dominicwalliman/works/27929629-map-of-computer-science?p=poster&amp;finish=semi_gloss&amp;size=small
+French Version: https://www.redbubble.com/people/dominicwalliman/works/40572729-map-of-computer-science-french-version?asc=u
+Spanish Version: https://www.redbubble.com/people/dominicwalliman/works/40572750-map-of-computer-science-spanish-version?asc=u
+Get all my other posters here: https://www.redbubble.com/people/dominicwalliman
+
+A couple of notes on this video:
+1. Some people have commented that I should have included computer security alongside hacking, and I completely agree, that was an oversight on my part. Apologies to all the computer security professionals, and thanks for all the hard work!
+2. I also failed to mention interpreters alongside compilers in the complier section. Again, I’m kicking myself because of course this is an important concept for people to hear about. Also the layers of languages being compiled to other languages is overly convoluted, in practice it is more simple than this. I guess I should have picked one simple example.
+3. NP-complete problems are possible to solve, they just become very difficult to solve very quickly as they get bigger. When I said NP-complete and then "impossible to solve", I meant that the large NP-complete problems that industry is interested in solving were thought to be practically impossible to solve.
+
+And free downloadable versions of this and the other posters here. If you want to print them out for educational purposes please do! https://www.flickr.com/photos/95869671@N08/
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+I also write a series of children’s science books call Professor Astro Cat, these links are to the publisher, but they are available in all good bookshops around the world in 18 languages and counting:
+Frontiers of Space (age 7+): http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure (age 7+): http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book (age 7+): http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System Book (age 3+, available in UK now, and rest of world in spring 2018): http://nobrow.net/shop/professor-astro-cats-solar-system/?
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+And the new Professor Astro Cat App: https://itunes.apple.com/us/app/galactic-genius-with-astro-cat/id1212841840?mt=8
+
+Find me on twitter, Instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:Dt_PSoZLjPE</id>
+<yt:videoId>Dt_PSoZLjPE</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Quantum Technology in Your Pocket</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=Dt_PSoZLjPE"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Quantum Technology in Your Pocket</media:title>
+<media:content url="https://www.youtube.com/v/Dt_PSoZLjPE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/Dt_PSoZLjPE/hqdefault.jpg" width="480" height="360"/>
+<media:description>You might not know that you use quantum technologies every day pretty much constantly. Here I have summarised five of them, but there are many others. Quantum physics is often seen as a weird part of physics, far removed from our every day lives but this couldn’t be further from the truth. The entire modern world exists because of our understanding of quantum physics!
+
+You can get this as a poster here: https://www.redbubble.com/people/dominicwalliman/works/27438063-5-ways-you-use-quantum-technology-every-day?asc=u&amp;p=poster&amp;rel=carousel
+And all my other posters here: https://www.redbubble.com/people/dominicwalliman
+And free versions for teachers here: https://www.flickr.com/photos/95869671@N08/
+
+And the new Professor Astro Cat App: https://itunes.apple.com/us/app/galactic-genius-with-astro-cat/id1212841840?mt=8
+
+And check out the other professor astro cat things, these links are to the publisher, but they are available in all good bookshops around the world in 18 languages and counting:
+Frontiers of Space (age 7+): http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure (age 7+): http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book (age 7+): http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System Book (age 3+, available in UK now, and rest of world in spring 2018): http://nobrow.net/shop/professor-astro-cats-solar-system/?
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+If I make any mistakes in this video I will post corrections here:
+So far so good. Fingers crossed!! :D
+
+Some links to interesting info if you would like to find out more:
+Forbes: What has quantum mechanics ever done for us.
+https://www.forbes.com/sites/chadorzel/2015/08/13/what-has-quantum-mechanics-ever-done-for-us/#31b995d64046
+Scientific American interview.
+https://www.scientificamerican.com/article/everyday-quantum-physics/
+Smithsonian practical uses of quantum mechanics.
+http://www.smithsonianmag.com/science-nature/five-practical-uses-spooky-quantum-mechanics-180953494/
+Phys.org quantum technologies
+https://phys.org/news/2016-06-quantum-technologies-revolutionize-21st-century.html
+LCD vs LED screens
+https://www.oneclickroot.com/android-smartphones/led-versus-lcd-smartphone-screens-which-one-is-best-for-you/
+How an LED works
+https://en.wikipedia.org/wiki/Light-emitting_diode
+Difference between CCD and CMOS
+https://www.lifewire.com/what-are-image-sensors-493722
+Invention of the transistor.
+https://en.wikipedia.org/wiki/John_Bardeen#The_invention_of_the_transistor
+History of semiconductors.
+https://en.wikipedia.org/wiki/Semiconductor#Early_history_of_semiconductors
+Veritasium explains transistors well
+https://youtu.be/IcrBqCFLHIY
+Explanation of a photodetector
+https://www.aptechnologies.co.uk/support/photodiodes/photodiode-theory-of-operation
+Hyperfine splitting of a caesium atom
+http://hyperphysics.phy-astr.gsu.edu/hbase/acloc.html
+Helium Neon Laser
+http://hyperphysics.phy-astr.gsu.edu/hbase/optmod/lasgas.html#c1
+LEDs
+http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/leds.html#c3
+Energy Bands
+http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/pnjun2.html#c2
+
+Domain of Science forum: https://www.commonlounge.com/community/7df58003ee83407fbef41fe842c7014f
+
+Find me on twitter, Instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:P3RXtoYCW4M</id>
+<yt:videoId>P3RXtoYCW4M</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Map of Chemistry</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=P3RXtoYCW4M"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Map of Chemistry</media:title>
+<media:content url="https://www.youtube.com/v/P3RXtoYCW4M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/P3RXtoYCW4M/hqdefault.jpg" width="480" height="360"/>
+<media:description>The entire field of chemistry summarised in 12mins from simple atoms to the molecules that keep you alive.This video was sponsored by The Great Courses Plus, start your free trial and help out this channel here http://ow.ly/crsQ30beNOZ
+
+If you would like to buy a poster of this map, they are available here: https://www.redbubble.com/people/dominicwalliman/works/26426671-the-map-of-chemistry 
+
+I have also made a version available for educational use which you can find here: https://flic.kr/p/UBS4mf 
+and a widescreen version: https://flic.kr/p/UNA1LW
+
+Errata and notes:
+1. I got the Oxidising Agent and the Reducing Agent the wrong way around! Sodium is the Reducing agent and Chlorine is the Oxidising agent. My confusion was that when a sodium atom looses an electron it becomes oxidised, so in my simple brain, I called it the oxidising agent. That is wrong because the agent that oxidises the sodium is the chlorine atom and so the labels are the wrong way around. Doh!
+2. I drew the hydrogen H2 molecule with a double bond but it should be a single bond because they are bonded with a single covalent bond.
+3. Where I have drawn carbon dioxide, the carbon should have a double bond to each of the oxygens.
+4. Apparently Feynman diagrams are not that useful for theoretical chemistry, so perhaps that wasn't the best choice for the illustration. The feedback in the comments from a real theoretical chemist is "All we deal with is shuffling around electrons, but many many many electrons, so a Feynman diagram would need to be huge but at the same time would be very very repetitive."
+5. In analytical chemistry, I should have called it distillation rather than precipitation.
+6. My definition of organic chemistry being about ‘life’ is not very good. I should have said that organic chemistry looks at compounds that contain carbon. But there are some compounds in inorganic chemistry that also contain carbon, like carbon dioxide so I guess I'd also have to state that inorganic chemistry is almost everything else.
+7. I said that fuels are inorganic chemistry which is misleading when I drew a car next to it. My understanding is that there are inorganic fuels that don't contain carbon, but obviously all the fuels we are familiar with are organic. I thought a picture of a car would tie a few things together elegantly, but it ended up giving the wrong impression. That’s okay, I’m still learning! :D
+8. In inorganic chemistry, I should have stated that all natural minerals fall under inorganic chemistry so as not to be misleading, otherwise you might go way thinking that only man-made substances fall under inorganic chemistry which is not true. I said that 'a lot of the inorganic compounds that are studied are man-made' meaning that the cutting edge of research is mostly man-made substances.
+9. Apparently water is not the most inflammable substance. I thought it was so that is interesting.
+10. In the bonding section, hydrogen bonding and van der waals forces are technically inter molecular forces.
+
+Here are some of the references I used for this video if you’d like to dig a little deeper
+https://en.wikipedia.org/wiki/Chemistry
+https://en.wikipedia.org/wiki/Outline_of_chemistry
+https://www.uwlax.edu/chemistry-and-biochemistry/student-resources/different-types-of-chemistry/
+https://www.khanacademy.org/science/chemistry
+https://www.cancerquest.org/cancer-biology/biological-building-blocks
+Early smelting:
+http://ispatguru.com/evolution-of-blast-furnace-iron-making/
+Categorisation of reactions
+http://www2.ucdsb.on.ca/tiss/stretton/chem1/stoich2.html
+And The Great Courses Plus have lots of great videos: http://ow.ly/crsQ30beNOZ
+‘The Great Courses Plus is currently available to watch through a web browser to almost anyone in the world and optimized for the US market. The Great Courses Plus is currently working to both optimise the product globally and accept credit card payments globally.’
+
+Thanks so much to my supporters on Patreon. If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Domain of Science forum: https://www.commonlounge.com/community/7df58003ee83407fbef41fe842c7014f
+
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book: http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:DJsJIVXkrGQ</id>
+<yt:videoId>DJsJIVXkrGQ</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>You Use Quantum Physics to Smell</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=DJsJIVXkrGQ"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>You Use Quantum Physics to Smell</media:title>
+<media:content url="https://www.youtube.com/v/DJsJIVXkrGQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/DJsJIVXkrGQ/hqdefault.jpg" width="480" height="360"/>
+<media:description>Your nose uses quantum tunnelling to smell! This crazy conclusion comes from the latest interpretations of the evidence about how our smell receptors detect odour molecules. This video summarises the two models of smell: shape theory and vibration theory, and concludes that you need both to explain how we smell.
+
+If you would like to buy a poster of this map, they are available here: https://www.redbubble.com/people/dominicwalliman/works/25781802-your-quantum-nose-how-smell-works
+
+I have also made a version available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/33581664495/in/dateposted-public/
+
+Domain of Science forum: https://www.commonlounge.com/community/7df58003ee83407fbef41fe842c7014f
+
+The main reference I used for this video was "Life on the Edge" by JohnJoe McFadden and Jim Al-Khalili. Which I highly recommend, it is very well written and contains some brilliant science explanations. The field of quantum biology is utterly fascinating. https://www.amazon.com/Life-Edge-Coming-Quantum-Biology/dp/0307986829
+Here are some other links you can look at if you want to find out more:
+https://en.wikipedia.org/wiki/Vibration_theory_of_olfaction
+https://phys.org/news/2011-03-quantum-explanation.html
+http://www.physics.org/featuredetail.asp?id=83
+
+To err is to human, and I human a lot. I always try my best to be as correct as possible, but unfortunately I make mistakes. This is the errata where I correct my silly mistakes. My goal is to one day do a video with no errors!
+
+1. I misspelled Planck's Constant and wrote Plank's constant. Silly me!
+
+Thanks so much to my supporters on Patreon. I hope to make money from my videos one day, but I’m not there yet! If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Also, if you enjoyed this video, you will probably like my science books, available in all good books shops around the work and is printed in 16 languages. Links are below or just search for Professor Astro Cat. They are fun children's books aimed at the age range 7-12. But they are also a hit with adults who want good explanations of science. The books have won awards and the app won a Webby.
+
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book: http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:OmJ-4B-mS-Y</id>
+<yt:videoId>OmJ-4B-mS-Y</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Map of Mathematics</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=OmJ-4B-mS-Y"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Map of Mathematics</media:title>
+<media:content url="https://www.youtube.com/v/OmJ-4B-mS-Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/OmJ-4B-mS-Y/hqdefault.jpg" width="480" height="360"/>
+<media:description>The entire field of mathematics summarised in a single map! This shows how pure mathematics and applied mathematics relate to each other and all of the sub-topics they are made from.
+
+If you would like to buy a poster of this map, they are available here: 
+North America: https://store.dftba.com/products/map-of-mathematics-poster
+Everywhere else: http://www.redbubble.com/people/dominicwalliman/works/25095968-the-map-of-mathematics
+French version: https://www.redbubble.com/people/dominicwalliman/works/40572671-the-map-of-mathematics-french-version?asc=u
+Spanish Version: https://www.redbubble.com/people/dominicwalliman/works/40572693-the-map-of-mathematics-spanish-version?asc=u
+
+I have also made a version available for educational use which you can find here: https://www.flickr.com/photos/95869671@N08/32264483720/in/dateposted-public/
+
+To err is to human, and I human a lot. I always try my best to be as correct as possible, but unfortunately I make mistakes. This is the errata where I correct my silly mistakes. My goal is to one day do a video with no errors!
+
+1. The number one is not a prime number. The definition of a prime number is a number can be divided evenly only by 1, or itself. And it must be a whole number GREATER than 1. (This last bit is the bit I forgot). 
+
+2. In the trigonometry section I drew cos(theta) = opposite / adjacent. This is the kind of thing you learn in high school and guess what. I got it wrong! Dummy. It should be cos(theta) = adjacent / hypotenuse.
+
+3. My drawing of dice is slightly wrong. Most dice have their opposite sides adding up to 7, so when I drew 3 and 4 next to each other that is incorrect.
+
+4. I said that the Gödel Incompleteness Theorems implied that mathematics is made up by humans, but that is wrong, just ignore that statement. I have learned more about it now, here is a good video explaining it: https://youtu.be/O4ndIDcDSGc
+
+5. In the animation about imaginary numbers I drew the real axis as vertical and the imaginary axis as horizontal which is opposite to the conventional way it is done.
+
+Thanks so much to my supporters on Patreon. I hope to make money from my videos one day, but I’m not there yet! If you enjoy my videos and would like to help me make more this is the best way and I appreciate it very much. https://www.patreon.com/domainofscience
+
+Here are links to some of the sources I used in this video.
+
+Links:
+Summary of mathematics: https://en.wikipedia.org/wiki/Mathematics
+Earliest human counting: http://mathtimeline.weebly.com/early-human-counting-tools.html
+First use of zero: https://en.wikipedia.org/wiki/0#History http://www.livescience.com/27853-who-invented-zero.html
+First use of negative numbers: https://www.quora.com/Who-is-the-inventor-of-negative-numbers
+Renaissance science: https://en.wikipedia.org/wiki/History_of_science_in_the_Renaissance
+History of complex numbers: http://rossroessler.tripod.com/ https://en.wikipedia.org/wiki/Mathematics
+Proof that pi is irrational: https://www.quora.com/How-do-you-prove-that-pi-is-an-irrational-number 
+and https://en.wikipedia.org/wiki/Proof_that_%CF%80_is_irrational#Laczkovich.27s_proof
+
+Also, if you enjoyed this video, you will probably like my science books, available in all good books shops around the work and is printed in 16 languages. Links are below or just search for Professor Astro Cat. They are fun children's books aimed at the age range 7-12. But they are also a hit with adults who want good explanations of science. The books have won awards and the app won a Webby.
+
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book: http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:AFhOzhe9mg4</id>
+<yt:videoId>AFhOzhe9mg4</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Gravitational Waves Are Awesome</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=AFhOzhe9mg4"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Gravitational Waves Are Awesome</media:title>
+<media:content url="https://www.youtube.com/v/AFhOzhe9mg4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/AFhOzhe9mg4/hqdefault.jpg" width="480" height="360"/>
+<media:description>Everything you need to know about gravitational waves. In February 2016 scientists announced the first detection of gravitational waves by humans on Earth. This was a huge, world changing, discovery. The gravitational waves were caused by a pair of colliding black holes 1.3 billion light years away 1.3 billion years ago. This video summaries all the of the mind blowing facts about the gravitational waves and describes LIGO, the incredibly sensitive telescope that detected them.
+
+If you would like to buy a poster you can get one here http://www.redbubble.com/people/dominicwalliman/works/24649310-gravitational-wave-astronomy?asc=u&amp;p=poster&amp;rel=carousel
+
+Errata and clarifications.
+
+I endeavour to be as accurate as possible in my videos, but I am human and definitely don’t know everything, so there are sometimes mistakes. Also, because my videos are summaries of some quite complex science, I make simplifications. Some of these are intentional because I don’t have time to go into full detail, but sometimes they are unintentional and here is where I clear them up.
+
+1. I got the month of the original detection wrong! It was September 2015, not November 2015. Silly me, my apologies.
+2. “1.3 billion years ago, 1.3 billion light years away” This is incorrect and an oversight on my part. I completely forgot to take into account the expansion of the Universe. The resulting black hole is 1.3 billion light years from us today, but was closer to us when the collision happened, which means that it happened less than 1.3 billion years ago. I tried to work out exactly when but was stumped because I couldn’t find the function for the acceleration of the expansion of the universe. The redshift of the signal from the black holes was about 10%, so I thought the collision was 10% closer in time than 1.3 billion years i.e. 1.18 billion years, but I think it might be a bit more complicated than that. 
+3. LIGO schematic animation. I made a couple of silly errors here. The first circular mirror that the laser hits should be 90º to the way I oriented it: half the laser light is transmitted and half reflected, each one going up a different arm.
+4. LIGO schematic animation. When the laser bounced back and forth it should bounce between the two suspended mirrors and not go all the way back to the diagonal mirror.
+5. VIRGO is near Pisa, not at Trento as I drew on the map. I said the right thing but drew the wrong thing. My apologies.
+6. ‘A second even more powerful collision.” Wrong again! The second collision was less powerful and the signal was more buried in the noise.
+
+I’m not happy with the number of flat out mistakes I made on this one! I will try better in the future. I blame it on the Christmas spirits.
+
+If you would like to find out more about gravitational waves and the detection here are the original papers and some very informative links.
+
+Main LIGO scientific paper: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102
+Supplementary LIGO paper: http://iopscience.iop.org/article/10.3847/2041-8205/818/2/L22
+
+Articles:
+http://physicsworld.com/cws/article/news/2016/feb/11/ligo-detects-first-ever-gravitational-waves-from-two-merging-black-holes
+http://www.nature.com/news/the-black-hole-collision-that-reshaped-physics-1.19612
+http://www.businessinsider.com/black-hole-collision-energy-50-times-universe-2016-2
+http://www.space.com/33176-gravitational-waves-from-second-black-hole-collision.html
+http://www.ligo.org/science/Publication-GW150914/index.php
+http://www.nature.com/news/gravitational-waves-6-cosmic-questions-they-can-tackle-1.19337
+http://www.nature.com/news/the-black-hole-collision-that-reshaped-physics-1.19612
+What they sound like:
+http://www.vox.com/2016/6/15/11948618/ligo-gravitational-waves-black-hole-sound
+
+Also, if you enjoyed this video, you will probably like my science books, available in all good books shops around the work and is printed in 16 languages. Links are below or just search for Professor Astro Cat. They are fun children's books aimed at the age range 7-12. But they are also a hit with adults who want good explanations of science. The books have won awards and the app won a Webby.
+
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book: http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:ZihywtixUYo</id>
+<yt:videoId>ZihywtixUYo</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>The Map of Physics</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=ZihywtixUYo"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>The Map of Physics</media:title>
+<media:content url="https://www.youtube.com/v/ZihywtixUYo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/ZihywtixUYo/hqdefault.jpg" width="480" height="360"/>
+<media:description>Everything we know about physics - and a few things we don't - in a simple map.
+
+If you are interested in buying a print you can buy it as a poster here: 
+North America: https://store.dftba.com/products/map-of-physics-poster
+Everywhere else: http://www.redbubble.com/people/dominicwalliman/works/24105984-the-map-of-physics?asc=u&amp;p=poster&amp;rel=carousel
+French version: https://www.redbubble.com/people/dominicwalliman/works/40572607-the-map-of-physics-french-version?asc=u
+Spanish Version: https://www.redbubble.com/people/dominicwalliman/works/40572642-the-map-of-physics-spanish-version?asc=u
+
+Or on a load of other objects: http://www.redbubble.com/people/dominicwalliman/works/24105984-the-map-of-physics?asc=u
+
+Also you can download a digital version here: https://www.flickr.com/photos/95869671@N08/30976775430/in/dateposted-public/
+
+I made the music, which you can find on my Soundcloud if you'd like to get lost in some cosmic jam. https://soundcloud.com/dominicwalliman
+
+Errata and clarifications.
+
+I endeavour to be as accurate as possible in my videos, but I am human and definitely don’t know everything, so there are sometimes mistakes. Also, due to the nature of my videos, there are bound to be oversimplifications. Some of these are intentional because I don’t have time to go into full detail, but sometimes they are unintentional and here is where I clear them up.
+
+1. “Isaac Newton invented calculus.” Actually there is controversy over who invented calculus first Isaac Newton or Gottfried Leibniz. Regardless of who it was I have used Leibniz’s mathematical notation here and so he definitely deserves credit. I did’t know about all this so thanks to those who pointed it out. https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy
+2. “Maxwell derived the laws of electromagnetism.” This is a simplification as Maxwell’s work was built on the backs of other scientists like Hans Christian Ørsted, André-Marie Ampère and Michael Faraday who discovered induction and saw that electricity and magnetism were part of the same thing. But it was Maxwell who worked out all the maths and brought electricity and magnetism together into a unified theory. https://en.wikipedia.org/wiki/Electromagnetism#History_of_the_theory
+3. “Entropy is a measure of order and disorder”. This is also a simplification and this does a good job of explaining it better https://en.wikipedia.org/wiki/Entropy
+4. Einstein and Quantum physics: I made it sound like quantum physics was built by people other than Einstein, but this couldn’t be further from the truth. Einstein got a Nobel prize for his work on the photoelectric effect which was a key result to show the particle-like nature of light. Funnily enough he never got a nobel prize for his work on Relativity!
+
+Also, if you enjoyed this video, you will probably like my science books, available in all good books shops around the work and is printed in 16 languages. Links are below or just search for Professor Astro Cat. They are fun children's books aimed at the age range 7-12. But they are also a hit with adults who want good explanations of science. The books have won awards and the app won a Webby.
+
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book: http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:A17b_Ncwfv0</id>
+<yt:videoId>A17b_Ncwfv0</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Why is it called a SQUARE root?</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=A17b_Ncwfv0"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Why is it called a SQUARE root?</media:title>
+<media:content url="https://www.youtube.com/v/A17b_Ncwfv0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/A17b_Ncwfv0/hqdefault.jpg" width="480" height="360"/>
+<media:description>I explain why it is called a square root, and also how a square root works.
+
+Clarifications:
+To keep this video simple I decided to not talk about complex numbers. But perhaps I should have mentioned complex numbers when talking about the square root of negative numbers.
+
+When I said  "you can never have a square root of a negative number", I guess I could have said "you can never have a square root of a negative number, unless you use complex numbers."
+
+Cool, well I'm still learning! And thanks for keeping me in check. :D
+
+Also, if you like my videos you might like my books, featuring Professor Astro Cat.
+
+Professor Astro Cat Links:
+Frontiers of Space: http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+Atomic Adventure: http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+Intergalactic Activity Book: http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+Solar System App: http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:eiwwk2r1QWI</id>
+<yt:videoId>eiwwk2r1QWI</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Beer Made With Wasp Guts!!</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=eiwwk2r1QWI"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Beer Made With Wasp Guts!!</media:title>
+<media:content url="https://www.youtube.com/v/eiwwk2r1QWI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/eiwwk2r1QWI/hqdefault.jpg" width="480" height="360"/>
+<media:description>You need yeast to make beer. Scientists discovered that wasps have yeast in their bellies, so why no make beer out of it! Brassneck brewery did just that so I went along to try some of their beer and find out why.
+
+I was not sponsored by Brassneck or anyone to do this video, I made it because I find it very interesting!
+
+Links to papers and more info:
+Brewer's yeast in the gut of wasps and their survival through insect diapause: 
+http://www.pnas.org/content/109/33/13398.full
+
+Yeasts hybridizing in the gut of wasps:
+http://www.pnas.org/content/113/8/2247.abstract
+
+Genetic basis for the production of insect attractants by yeasts:
+http://www.sciencedirect.com/science/article/pii/S2211124714007773
+
+Domestication of brewer's yeast (not discussed in our video):
+http://www.cell.com/current-biology/fulltext/S0960-9822(16)30984-8
+
+http://www.cell.com/cell/fulltext/S0092-8674(16)31071-6
+
+SFU's craft beer and brewing essentials program website:
+www.sfu.ca/beer
+
+Image credits:
+Yeast image
+By Masur - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1069017
+
+Historical brewery
+By Jost Amman - http://en.wikipedia.org/wiki/Image:The_Brewer_designed_and_engraved_in_the_Sixteenth._Century_by_J_Amman.png, Public Domain, https://commons.wikimedia.org/w/index.php?curid=864425
+
+Hellenistic Mosaics
+By Georgeg - https://en.wikipedia.org/wiki/File:Dyonisos_Paphos_mosaic.jpg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=31332927
+
+Persian Wine
+Public Domain, https://commons.wikimedia.org/w/index.php?curid=905164
+
+Egyptian winemaking
+By Ägyptischer Maler um 1500 v. Chr. - The Yorck Project: 10.000 Meisterwerke der Malerei. DVD-ROM, 2002. ISBN 3936122202. Distributed by DIRECTMEDIA Publishing GmbH., Public Domain, https://commons.wikimedia.org/w/index.php?curid=146258
+
+Opening wasps, yeast plate, yeast under microscope
+Sebastian Ibarra
+
+-------------------------------------------------------
+Professor Astro Cat Links:
+http://nobrow.net/shop/professor-astro-cats-frontiers-of-space/
+http://nobrow.net/shop/professor-astro-cats-atomic-adventure/
+http://nobrow.net/shop/professor-astro-cats-intergalactic-activity-book/
+http://www.minilabstudios.com/apps/professor-astro-cats-solar-system/
+
+Find me on twitter, instagram, and my website:
+http://dominicwalliman.com
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:OokV2AX4TKg</id>
+<yt:videoId>OokV2AX4TKg</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>What is machine learning?</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=OokV2AX4TKg"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>What is machine learning?</media:title>
+<media:content url="https://www.youtube.com/v/OokV2AX4TKg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/OokV2AX4TKg/hqdefault.jpg" width="480" height="360"/>
+<media:description>Machine learning is everywhere these days, but not everyone knows what it is; in this video I give a simple explanation.
+
+http://dominicwalliman.com/
+https://twitter.com/DominicWalliman
+https://www.instagram.com/dominicwalliman
+https://www.facebook.com/dominicwalliman
+
+Credits:
+Amazon robots: https://www.youtube.com/watch?v=quWFjS3Ci7A
+Self driving cars: https://www.youtube.com/watch?v=kMMbW96nMW8
+NASA exoplanets: https://www.youtube.com/watch?v=WRwX6fY8ZCw
+NASA curiosity rover: https://www.youtube.com/watch?v=ME_T4B1rxCg
+
+BBC micro image
+BBC Micro: By BBC_Micro.jpeg: Stuart Bradyderivative work: Ubcule (talk) - BBC_Micro.jpeg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11672213</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:6azrJleaF34</id>
+<yt:videoId>6azrJleaF34</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Vancouver Crows a Mass Murder</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=6azrJleaF34"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Vancouver Crows a Mass Murder</media:title>
+<media:content url="https://www.youtube.com/v/6azrJleaF34?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/6azrJleaF34/hqdefault.jpg" width="480" height="360"/>
+<media:description>Every evening near Vancouver BC, a huge gathering of crows descend on a single block at Still Creek Drive, Burnaby. It is crazy!</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:1hkFELI6mK0</id>
+<yt:videoId>1hkFELI6mK0</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Introduction to Cold Atom Physics</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=1hkFELI6mK0"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Introduction to Cold Atom Physics</media:title>
+<media:content url="https://www.youtube.com/v/1hkFELI6mK0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/1hkFELI6mK0/hqdefault.jpg" width="480" height="360"/>
+<media:description>An introduction video to the field of Ultra-cold Atom Physics filmed at the MUARC summer school in 2010.
+
+This video introduces the concepts involved in cooling down atoms to such low temperatures that their quantum mechanical properties can be observed and manipulated.</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:VyX8E4KUkWw</id>
+<yt:videoId>VyX8E4KUkWw</yt:videoId>
+<yt:channelId>UCxqAWLTk1CmBvZFPzeZMd9A</yt:channelId>
+<title>Quantum Computing</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=VyX8E4KUkWw"/>
+<author>
+<name>DoS - Domain of Science</name>
+<uri>https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>Quantum Computing</media:title>
+<media:content url="https://www.youtube.com/v/VyX8E4KUkWw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/VyX8E4KUkWw/hqdefault.jpg" width="480" height="360"/>
+<media:description>A short video explaining what quantum computers are, how they work, and what you'd need to build one.</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+</feed>

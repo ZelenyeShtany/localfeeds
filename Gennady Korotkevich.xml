@@ -1,0 +1,288 @@
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+<link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCkySD00cmDWYHXA31hqRYRw"/>
+<id>yt:channel:UCkySD00cmDWYHXA31hqRYRw</id>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>Gennady Korotkevich</title>
+<link rel="alternate" href="https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2000-01-01T20:00:17+00:00</published><entry>
+<id>yt:video:97tieEKfvBs</id>
+<yt:videoId>97tieEKfvBs</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 012: Codeforces Round 672 (Div. 2)</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=97tieEKfvBs"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 012: Codeforces Round 672 (Div. 2)</media:title>
+<media:content url="https://www.youtube.com/v/97tieEKfvBs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/97tieEKfvBs/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing Codeforces Round 672 (Div. 2) and explaining my solutions on the go!
+ -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:eXtxk7e5J1Q</id>
+<yt:videoId>eXtxk7e5J1Q</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 011: Codeforces Educational 95</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=eXtxk7e5J1Q"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 011: Codeforces Educational 95</media:title>
+<media:content url="https://www.youtube.com/v/eXtxk7e5J1Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/eXtxk7e5J1Q/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing Educational Codeforces Round 95 virtually and explaining my solutions on the go! More information: https://codeforces.com/blog/entry/82600 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:JU3HY5GLVnY</id>
+<yt:videoId>JU3HY5GLVnY</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 010: Codeforces Round 669 (Div. 2) &amp; SNSS 2020 Round 5</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=JU3HY5GLVnY"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 010: Codeforces Round 669 (Div. 2) &amp; SNSS 2020 Round 5</media:title>
+<media:content url="https://www.youtube.com/v/JU3HY5GLVnY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/JU3HY5GLVnY/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing Codeforces Round 669 and SnarkNews Summer Series 2020 Round 5 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/81698 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:JLn4Fp2ch1M</id>
+<yt:videoId>JLn4Fp2ch1M</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 009: SNSS 2020 Round 4</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=JLn4Fp2ch1M"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 009: SNSS 2020 Round 4</media:title>
+<media:content url="https://www.youtube.com/v/JLn4Fp2ch1M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/JLn4Fp2ch1M/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing SnarkNews Summer Series 2020 Round 4 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/81698 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:01fGS_4wuGc</id>
+<yt:videoId>01fGS_4wuGc</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 008: SNSS 2020 Round 3</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=01fGS_4wuGc"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 008: SNSS 2020 Round 3</media:title>
+<media:content url="https://www.youtube.com/v/01fGS_4wuGc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/01fGS_4wuGc/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing SnarkNews Summer Series 2020 Round 3 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/81698 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:axoK6Dq1WLE</id>
+<yt:videoId>axoK6Dq1WLE</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 007: SNSS 2020 Round 2</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=axoK6Dq1WLE"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 007: SNSS 2020 Round 2</media:title>
+<media:content url="https://www.youtube.com/v/axoK6Dq1WLE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/axoK6Dq1WLE/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing SnarkNews Summer Series 2020 Round 2 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/81698 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:vyRMSyPaj-o</id>
+<yt:videoId>vyRMSyPaj-o</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 006: SNSS 2020 Round 1</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=vyRMSyPaj-o"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 006: SNSS 2020 Round 1</media:title>
+<media:content url="https://www.youtube.com/v/vyRMSyPaj-o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/vyRMSyPaj-o/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing SnarkNews Summer Series 2020 Round 1 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/81698 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:GzArXGTfUQY</id>
+<yt:videoId>GzArXGTfUQY</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 005: SNWS 2020 R5</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=GzArXGTfUQY"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 005: SNWS 2020 R5</media:title>
+<media:content url="https://www.youtube.com/v/GzArXGTfUQY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/GzArXGTfUQY/hqdefault.jpg" width="480" height="360"/>
+<media:description>Series finale! Watch me doing SnarkNews Winter Series 2020 Round 5 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/73652 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:docBmRRvieU</id>
+<yt:videoId>docBmRRvieU</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 004: SNWS 2020 R4</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=docBmRRvieU"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 004: SNWS 2020 R4</media:title>
+<media:content url="https://www.youtube.com/v/docBmRRvieU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/docBmRRvieU/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing SnarkNews Winter Series 2020 Round 4 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/73407 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:MWeWgK6Oy_M</id>
+<yt:videoId>MWeWgK6Oy_M</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 003: SNWS 2020 R3</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=MWeWgK6Oy_M"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 003: SNWS 2020 R3</media:title>
+<media:content url="https://www.youtube.com/v/MWeWgK6Oy_M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/MWeWgK6Oy_M/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing SnarkNews Winter Series 2020 Round 3 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/73231 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:huyHb3coUdQ</id>
+<yt:videoId>huyHb3coUdQ</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 002: SNWS 2020 R2</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=huyHb3coUdQ"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 002: SNWS 2020 R2</media:title>
+<media:content url="https://www.youtube.com/v/huyHb3coUdQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/huyHb3coUdQ/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing SnarkNews Winter Series 2020 Round 2 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/73133 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+<entry>
+<id>yt:video:eHaU-GjS8PM</id>
+<yt:videoId>eHaU-GjS8PM</yt:videoId>
+<yt:channelId>UCkySD00cmDWYHXA31hqRYRw</yt:channelId>
+<title>touristream 001: SNWS 2020 R1</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=eHaU-GjS8PM"/>
+<author>
+<name>Gennady Korotkevich</name>
+<uri>https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw</uri>
+</author>
+<published>2020-03-20T23:05:58+00:00</published>
+<updated>HZ</updated>
+<media:group>
+<media:title>touristream 001: SNWS 2020 R1</media:title>
+<media:content url="https://www.youtube.com/v/eHaU-GjS8PM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/eHaU-GjS8PM/hqdefault.jpg" width="480" height="360"/>
+<media:description>Watch me doing SnarkNews Winter Series 2020 Round 1 live and discussing the problems afterwards! More information: https://codeforces.com/blog/entry/73018 -- Watch live at https://www.twitch.tv/the__tourist</media:description>
+<media:community>
+<media:starRating count="0" average="0.0" min="1" max="5"/>
+<media:statistics views="1000"/>
+</media:community>
+</media:group>
+</entry>
+</feed>
